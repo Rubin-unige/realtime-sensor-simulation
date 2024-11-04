@@ -68,5 +68,5 @@ This project simulates real-time sensor data generation and processing using POS
 To get started, clone the repository and open it in your preferred development environment. Ensure you have the required dependencies installed.
 
 ```bash
-git clone https://github.com/yourusername/realtime-sensor-simulation.git
+git clone https://github.com/Rubin-unige/realtime-sensor-simulation.git
 cd realtime-sensor-simulation
